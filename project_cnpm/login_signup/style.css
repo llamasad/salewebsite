@@ -1,0 +1,113 @@
+#main{
+    margin: -10px;
+     background-color: #00979d;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header-login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:-10px;
+    background-color:aliceblue;
+    display: flex;
+}
+#logo{
+    width: 60px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+#header{
+    color: #00979d;;
+    margin-left: 10px;
+}
+#dangnhap{
+    margin-left: 100px;
+   font-size: 25px;
+   color: #00222f;
+}
+.login{
+    background-color: #00979d;
+    height: 800px;
+    margin: -10px;
+    align-items: center;
+}
+.table{
+    
+    
+    margin-top: 100px;
+   margin-left: 440px;
+   margin-right: 550px;
+   width:400px;
+ height: 450px;
+ 
+    background-color:white;
+}
+.form{
+    
+    align-items: center;
+}
+.connect{
+    display: flex;
+   
+}
+
+.google{
+    display: flex;
+    align-items: center;
+}
+.facebook{
+    display: flex;
+    align-items: center;
+}
+.discord{
+    display: flex;
+    align-items: center;
+}
+#tieude{
+    font-size: 25px;
+    padding-top:30px ;
+    padding-left: 130px;
+}
+.logan{
+  padding-left: 26px;
+  padding-top: 5px;
+}
+.name{
+    width: 340px;
+    height: 40px;
+}
+.pwd{
+    width: 340px;
+    height: 40px; 
+}
+.namelogin{
+    padding-bottom: 20px;
+}
+.nut{
+    width: 348px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 0px;
+    background-color:#00979d;
+    color: white;
+    font-size: 16px;
+}
+.submit{
+    display: flex;
+    align-items: center;
+}
+#unknown{
+    margin-right: 20px;
+    margin-left: 40px;
+}
+#dangky{
+    color: #00979d;
+    text-decoration: none;
+ 
+}
+#or{
+   
+    margin-left: -30px;
+    padding-left: 170px;
+    color: gray;
+}
